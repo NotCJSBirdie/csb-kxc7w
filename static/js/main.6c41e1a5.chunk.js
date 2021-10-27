@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-events-2021"]=this["webpackJsonpreact-events-2021"]||[]).push([[0],{4:function(t,e,n){"use strict";n.r(e);n(0);var c=n(3),o=n.n(c),r=n(2);function s(){return Object(r.jsx)("button",{type:"button",onClick:function(t){alert(t.type)},children:" Take the shot! "})}o.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.6c41e1a5.chunk.js.map
